@@ -13,10 +13,10 @@ include_once("checkLogin.php");
        
       <div id="content" class="p-4 p-md-5 pt-5">
        <form method="POST">
-   Resim Prompt'u: <input type="text" name="prompt"><br>
-   Oluşacak Resim Sayısı: <input type="text" name="n"><br>
-   Resim Boyut: <input type="text" name="size"><br>
-   <input name="submit" type="submit" value="Gönder">
+   Prompt <input type="text" name="prompt"><br>
+   İmage num(please only say 1)<input type="text" name="n"><br>
+   (256x256,512x512,1024x1024) <input type="text" name="size"><br>
+   <input name="submit" type="submit" value="Go">
    </form>
 
    <?php 
