@@ -2,7 +2,6 @@
 
 Introducing the website where you can have images drawn by OpenAI's DALL-E AI using the API Key provided by the OpenAI organization! All you need to do is set up the database connection and add the API Key. Let's learn!
 
-Some example images:
 <img src="/example/example01.jpg" width="512" height="512" alt="sample image 1" title="sample image 1">
 <img src="/example/example02.jpg" width="512" height="512" alt="sample image 2" title="sample image 2">
 <img src="/example/example03.jpg" width="512" height="512" alt="sample image 3" title="sample image 3">
