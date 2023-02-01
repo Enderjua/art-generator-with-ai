@@ -2,11 +2,14 @@
 
 Introducing the website where you can have images drawn by OpenAI's DALL-E AI using the API Key provided by the OpenAI organization! All you need to do is set up the database connection and add the API Key. Let's learn!
 
-<img src="/example/example01.jpg" width="512" height="512" alt="sample image 1" title="sample image 1">
-<img src="/example/example02.jpg" width="512" height="512" alt="sample image 2" title="sample image 2">
-<img src="/example/example03.jpg" width="512" height="512" alt="sample image 3" title="sample image 3">
-<img src="/example/example04.jpg" width="512" height="512" alt="sample image 4" title="sample image 4">
-<img src="/example/example05.jpg" width="512" height="512" alt="sample image 5" title="sample image 5">
+Example image:
+
+
+<img src="/example/example01.jpg" width="256" height="256" alt="sample image 1" title="sample image 1">
+<img src="/example/example02.jpg" width="256" height="256" alt="sample image 2" title="sample image 2">
+<img src="/example/example03.jpg" width="256" height="256" alt="sample image 3" title="sample image 3">
+<img src="/example/example04.jpg" width="256" height="256" alt="sample image 4" title="sample image 4">
+<img src="/example/example05.jpg" width="256" height="256" alt="sample image 5" title="sample image 5">
 
 These images were produced by the previously mentioned DALL-E. However, our goal is to make it possible to use this DALL-E AI on our own website. Here are the original Github pages:
 
